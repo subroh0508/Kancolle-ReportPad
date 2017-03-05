@@ -9,4 +9,23 @@
     <string name="friday">金曜日</string>
 
     <string name="tab_improvement_arsenal">改修工廠</string>
+
+    <string name="dd">駆逐艦</string>
+    <string name="cl">軽巡洋艦</string>
+    <string name="ct">練習巡洋艦</string>
+    <string name="clt">重雷装巡洋艦</string>
+    <string name="ca">重巡洋艦</string>
+    <string name="cav">航空巡洋艦</string>
+    <string name="bb">戦艦</string>
+    <string name="bbv">航空戦艦</string>
+    <string name="cvl">軽空母</string>
+    <string name="cv">正規空母</string>
+    <string name="cvb">装甲空母</string>
+    <string name="ss">潜水艦</string>
+    <string name="ssv">潜水空母</string>
+    <string name="av">水上機母艦</string>
+    <string name="as">潜水母艦</string>
+    <string name="lha">揚陸艦</string>
+    <string name="ao">補給艦</string>
+    <string name="ar">工作艦</string>
 </resources>

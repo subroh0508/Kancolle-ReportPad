@@ -9,4 +9,46 @@
         <item>@string/thursday</item>
         <item>@string/friday</item>
     </string-array>
+
+    <string-array name="shipCategories">
+        <item>@string/dd</item>
+        <item>@string/cl</item>
+        <item>@string/ct</item>
+        <item>@string/clt</item>
+        <item>@string/ca</item>
+        <item>@string/cav</item>
+        <item>@string/bb</item>
+        <item>@string/bbv</item>
+        <item>@string/cvl</item>
+        <item>@string/cv</item>
+        <item>@string/cvb</item>
+        <item>@string/ss</item>
+        <item>@string/ssv</item>
+        <item>@string/av</item>
+        <item>@string/as</item>
+        <item>@string/lha</item>
+        <item>@string/ao</item>
+        <item>@string/ar</item>
+    </string-array>
+
+    <string-array name="hullCodes">
+        <item>DD</item>
+        <item>CL</item>
+        <item>CT</item>
+        <item>CLT</item>
+        <item>CA</item>
+        <item>CAV</item>
+        <item>BB</item>
+        <item>BBV</item>
+        <item>CVL</item>
+        <item>CV</item>
+        <item>CVB</item>
+        <item>SS</item>
+        <item>SSV</item>
+        <item>AV</item>
+        <item>AS</item>
+        <item>LHA</item>
+        <item>AO</item>
+        <item>AR</item>
+    </string-array>
 </resources>

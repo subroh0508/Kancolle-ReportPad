@@ -8,4 +8,25 @@
     <string name="wednesday">Wednesday</string>
     <string name="thursday">Thursday</string>
     <string name="friday">Friday</string>
+
+    <string name="tab_improvement_arsenal">Improvement Arsenal</string>
+
+    <string name="dd">Destroyer</string>
+    <string name="cl">Light Cruiser</string>
+    <string name="ct">Training Cruiser</string>
+    <string name="clt">Torpedo Cruiser</string>
+    <string name="ca">Heavy Cruiser</string>
+    <string name="cav">Aviation Cruiser</string>
+    <string name="bb">Battleship</string>
+    <string name="bbv">Aviation Battleship</string>
+    <string name="cvl">Light Aircraft Carrier</string>
+    <string name="cv">Regular Aircraft Carrier</string>
+    <string name="cvb">Armored Aircraft Carrier</string>
+    <string name="ss">Submarine</string>
+    <string name="ssv">Aircraft Submarine</string>
+    <string name="av">Seaplane Tender</string>
+    <string name="as">Submarine Tender</string>
+    <string name="lha">Amphibious Assault Ship</string>
+    <string name="ao">Fleet Oiler</string>
+    <string name="ar">Repair Ship</string>
 </resources>

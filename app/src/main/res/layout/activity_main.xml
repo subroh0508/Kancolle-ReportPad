@@ -21,4 +21,22 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="start service"/>
+
+    <Button
+        android:id="@+id/load"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="load ship categories"/>
+
+
+    <Button
+        android:id="@+id/findAll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="find all ship categories"/>
+
+    <TextView
+        android:id="@+id/shipCategories"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 </LinearLayout>
