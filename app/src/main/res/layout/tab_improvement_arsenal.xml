@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="64dp"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="@dimen/tab_icon_width"
+        android:layout_height="@dimen/tab_icon_height"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="8dp"
+        android:src="@drawable/ic_build_black_24dp"/>
+
+    <TextView
+        style="@style/tabText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/tab_improvement_arsenal" />
+
+</LinearLayout>
